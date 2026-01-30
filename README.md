@@ -183,7 +183,7 @@ index,label
 ## 👨‍💻 Author
 
 **Harsha Koushik Teja Aila**  
-Graduate Student | Machine Learning Engineer
+Graduate Student | Machine Learning Engineer / Data Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aila-harsha-koushik-teja)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:harshaus33@gmail.com)
