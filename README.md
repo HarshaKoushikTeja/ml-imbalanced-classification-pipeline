@@ -89,14 +89,16 @@
 ## 📂 Repository Structure
 
 ```
-iee520-ml-classification/
-├── project.ipynb                          # Main pipeline implementation
-├── ProjectLABELED2025.xlsx          # Training dataset
-├── ProjectNOTLABELED2025.xlsx       # Prediction dataset
-├── ProjectPredictions2025.csv       # Model predictions (output)
-├── ProjectReport2025.pdf            # Technical report
-├── requirements.txt                 # Dependencies
-└── README.md                        # Documentation
+ml-imbalanced-classification-pipeline/
+├── project.ipynb # Main ML pipeline notebook
+├── data/
+│ ├── ProjectLABELED2025.xlsx
+│ └── ProjectNOTLABELED2025.xlsx
+├── report/
+│ └── ProjectReport2025HarshaKoushikTejaAila.pdf
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
 
 ---
