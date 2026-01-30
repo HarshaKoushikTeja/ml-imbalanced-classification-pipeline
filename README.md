@@ -116,8 +116,8 @@ pip
 ### Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/HarshaKoushikTeja/iee520-ml-classification-project.git
-cd iee520-ml-classification-project
+git clone https://github.com/HarshaKoushikTeja/ml-imbalanced-classification-pipeline.git
+cd ml-imbalanced-classification-pipeline
 
 # Install dependencies
 pip install -r requirements.txt
